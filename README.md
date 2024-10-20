@@ -214,7 +214,7 @@ To safely edit the `mainwindow.py` file:
 4. Editing Map Tile
    <br>
    i. [mainwindow.py](./UI/mainwindow.py)
-   <br>![CSV File Simulation](./Readme Files/img.png)
+   <br>![CSV File Simulation](./Readme Files/imgg.png)
    ii. [csv_file_simulation.py](./UI/csv_file_simulation.py)
    <br>![CSV File Simulation](./Readme Files/img-2.png)
 
