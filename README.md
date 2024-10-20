@@ -206,18 +206,17 @@ To safely edit the `mainwindow.py` file:
 1. Open the file in a code editor like VS Code or Notepad.
 
 
-2. Search for the IP address using `Ctrl+F`.
-   <br> ![Open File](./UI/Readme Files/image-4.png)
+2. Search for the IP address using `Ctrl+F`.Readme Files/image-4.pngadme Files/image-4.png)
 
 3. Replace the existing IP address with the new one by copying the current IP and using `Ctrl+H` (or `Ctrl+R` in
    Notepad) to replace it throughout the file.
-   <br> ![IP Replacement](./UI/Readme Files/image-5.png)
+   <Readme Files/image-5.pngadme Files/image-5.png)
 4. Editing Map Tile
    <br>
    i. [mainwindow.py](./UI/mainwindow.py)
-   <br>![img.png](UI/Readme Files/img.png)
+   <br>![CSV File Simulation](./Readme Files/img.png)
    ii. [csv_file_simulation.py](./UI/csv_file_simulation.py)
-   <br>![img.png](UI/Readme Files/img-2.png)
+   <br>![CSV File Simulation](./Readme Files/img-2.png)
 
 ---
 
@@ -226,13 +225,13 @@ To safely edit the `mainwindow.py` file:
 Refer to the following images for detailed understanding:
 
 - **File Selection**  
-  ![File Selection](./UI/Readme Files/image-1.png)
+  ![File Selection](./Readme Files/image-1.png)
 
 - **Start Simulation**  
-  ![Start Simulation](./UI/Readme Files/image-2.png)
+  ![Start Simulation](./Readme Files/image-2.png)
 
 - **Data Flow in UI**  
-  ![Data Flow](./UI/Readme Files/image-3.png)
+  ![Data Flow](Readme Files/image-3.png)
 
 ---
 
