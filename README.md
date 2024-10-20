@@ -206,17 +206,17 @@ To safely edit the `mainwindow.py` file:
 1. Open the file in a code editor like VS Code or Notepad.
 
 
-2. Search for the IP address using `Ctrl+F`.Readme Files/image-4.pngadme Files/image-4.png)
-
+2. Search for the IP address using `Ctrl+F`
+      <br>![Find](https://github.com/WhoIsJayD/Turksat-Model-Satellite-Competition-2024/blob/6bb03e646c61f0f06ef03d8534acf90ed1a81020/Readme%20Files/image-4.png)
 3. Replace the existing IP address with the new one by copying the current IP and using `Ctrl+H` (or `Ctrl+R` in
    Notepad) to replace it throughout the file.
-   <Readme Files/image-5.pngadme Files/image-5.png)
+      <br>![Replace](https://github.com/WhoIsJayD/Turksat-Model-Satellite-Competition-2024/blob/6bb03e646c61f0f06ef03d8534acf90ed1a81020/Readme%20Files/image-5.png)
 4. Editing Map Tile
    <br>
    i. [mainwindow.py](./UI/mainwindow.py)
-   <br>![CSV File Simulation](./Readme Files/imgg.png)
+   <br>![Mainwindow](https://github.com/WhoIsJayD/Turksat-Model-Satellite-Competition-2024/blob/6bb03e646c61f0f06ef03d8534acf90ed1a81020/Readme%20Files/imgg.png)
    ii. [csv_file_simulation.py](./UI/csv_file_simulation.py)
-   <br>![CSV File Simulation](./Readme Files/img-2.png)
+   <br>![CSV File Simulation](https://github.com/WhoIsJayD/Turksat-Model-Satellite-Competition-2024/blob/6bb03e646c61f0f06ef03d8534acf90ed1a81020/Readme%20Files/img-2.png)
 
 ---
 
@@ -224,14 +224,14 @@ To safely edit the `mainwindow.py` file:
 
 Refer to the following images for detailed understanding:
 
-- **File Selection**  
-  ![File Selection](./Readme Files/image-1.png)
+- **File Selection**
+      <br>![File Selection](https://github.com/WhoIsJayD/Turksat-Model-Satellite-Competition-2024/blob/6bb03e646c61f0f06ef03d8534acf90ed1a81020/Readme%20Files/image.png)
+      <br>![File Selection](https://github.com/WhoIsJayD/Turksat-Model-Satellite-Competition-2024/blob/6bb03e646c61f0f06ef03d8534acf90ed1a81020/Readme%20Files/image-1.png)
+- **Start Simulation**
+      <br>![Start Simulation](https://github.com/WhoIsJayD/Turksat-Model-Satellite-Competition-2024/blob/6bb03e646c61f0f06ef03d8534acf90ed1a81020/Readme%20Files/image-2.png)
+- **Data Flow in UI**
+      <br>![Data Flow](https://github.com/WhoIsJayD/Turksat-Model-Satellite-Competition-2024/blob/6bb03e646c61f0f06ef03d8534acf90ed1a81020/Readme%20Files/image-3.png)
 
-- **Start Simulation**  
-  ![Start Simulation](./Readme Files/image-2.png)
-
-- **Data Flow in UI**  
-  ![Data Flow](Readme Files/image-3.png)
 
 ---
 
